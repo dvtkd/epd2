@@ -1,2 +1,2 @@
 # epd2
-files course end
+files course epd
